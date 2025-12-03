@@ -32,7 +32,7 @@ A desktop-based speech recognition application that listens to user voice comman
 💬 Add TTS (Text-to-Speech) features  
 🤖 Improve speech accuracy using ML models  
 
-# Prject Snapshots  
+# Project Snapshots  
 
 <p align="start">
   <img src="screenshots/prototype1.jpg" width="500">
