@@ -48,6 +48,12 @@ A desktop-based speech recognition application that listens to user voice comman
   <em>Second Prototype with high performing functions and a god interface</em>
 </p>  
 
+<p align="start">
+  <img src="screenshots/software_interface.png" width="500">
+  <br>
+  <em>Final Software Interface</em>
+</p>  
+
 # 🧑‍💻 Author  
 
 <small>**Ayush Gupta**</small>  
