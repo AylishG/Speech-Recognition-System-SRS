@@ -32,6 +32,22 @@ A desktop-based speech recognition application that listens to user voice comman
 💬 Add TTS (Text-to-Speech) features  
 🤖 Improve speech accuracy using ML models  
 
+# Prject Snapshots  
+
+<p align="start">
+  <img src="screenshots/prototype1.jpg" width="500">
+  <br>
+  <em>First Prototype with a limited functions and lower interface</em>
+</p>  
+
+<br>  
+
+<p align="start">
+  <img src="screenshots/listening_status.jpg" width="500">
+  <br>
+  <em>Second Prototype with high performing functions and a god interface</em>
+</p>  
+
 # 🧑‍💻 Author  
 
 <small>**Ayush Gupta**</small>  
